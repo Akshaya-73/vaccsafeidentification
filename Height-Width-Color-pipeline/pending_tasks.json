@@ -1,0 +1,74 @@
+[
+  {
+    "task_id": "TASK-0001",
+    "status": "pending",
+    "timestamp": "2026-05-11T04:12:34.212075",
+    "track_id": "1",
+    "dog_features": {
+      "color": "brown",
+      "w1": 95,
+      "h1": 71,
+      "h2": 35
+    }
+  },
+  {
+    "task_id": "TASK-0002",
+    "status": "pending",
+    "timestamp": "2026-05-11T04:12:38.328846",
+    "track_id": "3",
+    "dog_features": {
+      "color": "brown",
+      "w1": 87,
+      "h1": 63,
+      "h2": 31
+    }
+  },
+  {
+    "task_id": "TASK-0003",
+    "status": "pending",
+    "timestamp": "2026-05-11T04:12:48.880595",
+    "track_id": "4",
+    "dog_features": {
+      "color": "brown",
+      "w1": 47,
+      "h1": 71,
+      "h2": 35
+    }
+  },
+  {
+    "task_id": "TASK-0004",
+    "status": "pending",
+    "timestamp": "2026-05-11T04:12:49.323231",
+    "track_id": "5",
+    "dog_features": {
+      "color": "brown",
+      "w1": 39,
+      "h1": 63,
+      "h2": 31
+    }
+  },
+  {
+    "task_id": "TASK-0005",
+    "status": "pending",
+    "timestamp": "2026-05-11T04:12:56.188096",
+    "track_id": "7",
+    "dog_features": {
+      "color": "brown",
+      "w1": 119,
+      "h1": 87,
+      "h2": 43
+    }
+  },
+  {
+    "task_id": "TASK-0006",
+    "status": "pending",
+    "timestamp": "2026-05-11T04:13:00.295925",
+    "track_id": "9",
+    "dog_features": {
+      "color": "brown",
+      "w1": 79,
+      "h1": 71,
+      "h2": 35
+    }
+  }
+]
